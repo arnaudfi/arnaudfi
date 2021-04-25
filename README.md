@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arnaudfi
+- 👋 Hi, I’m @arnaudfi (fidz)
 - 👀 I’m interested in linux audio software, I am a guitar player and a librazik disthro user.
 - 🌱 I’m currently learning some basics linux and bash codes
 - 💞️ I’m looking to collaborate on testing linux audio software
